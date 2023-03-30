@@ -1,0 +1,17 @@
+{
+  "name": "myapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm install express"
+  },
+  "keywords": [
+    "yoyo"
+  ],
+  "author": "rahul",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
